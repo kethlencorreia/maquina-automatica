@@ -18,9 +18,5 @@ A Máquina Automática é um simulador de uma máquina de dinheiro que permite r
 - Exibir Saldo
 - Mostra o valor total guardado na máquina.
 
-Relatório
-- Exibe a quantidade de cada tipo de nota na máquina.
-- Exibe o saldo total da máquina.
-- Finalizar
 
 Ao finalizar o programa, se houver dinheiro na máquina, o usuário será perguntado se deseja sacar o saldo total.
